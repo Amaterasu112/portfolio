@@ -41,125 +41,6 @@
         }
       },
       {
-        "HashCode": 983313850,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 662537569,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -499470422,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.SurveyPrompt",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1925917124,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.SurveyPrompt",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Amaterasu112_github_io.BlazorApp.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1585263574,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Index",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -48316339,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Index",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1371895678,
         "Kind": "Components.Component",
         "Name": "Portfolio.Shared.SurveyPrompt",
@@ -338,6 +219,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Portfolio.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1585263574,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Index",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -48316339,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Index",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

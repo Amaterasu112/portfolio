@@ -345,7 +345,6 @@
 /Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/staticwebassets/Portfolio.StaticWebAssets.xml
 /Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/Portfolio.dll
 /Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/Portfolio.pdb
-/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/bin/Debug/netstandard2.1/Amaterasu112.github.io/sample-data/weather.json
-/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/ExBtnTQua64u6h-oUV-d9mIlnEI9n9ohkO1DS-ste5Y=.hash
-/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/kgd-B7-ghWRNo7fi_--jXydssu5B9PSMqmxOry_5ky4=.hash
-/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/2XunTPOIXHyCXgWE62cOY6rnKqAg3Tqs2xttUKmGSCk=.hash
+/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/6riSYUyT23Xk4SMNG57pp8hRNP-kc_-NG0kWWS5qAQU=.hash
+/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/zXLlV_Bdsv9Y7nOO_eSBdVbVjNfN_QhdXnQV09kS1fc=.hash
+/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/obj/Debug/netstandard2.1/integrity/3LhkAfGw-Sqtpd6Z8oX9-mbqUWP7mQIOW9JjQVx6Ds8=.hash

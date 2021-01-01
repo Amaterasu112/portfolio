@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ExBtnTQua64u6h-oUV-d9mIlnEI9n9ohkO1DS-ste5Y=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6riSYUyT23Xk4SMNG57pp8hRNP-kc_-NG0kWWS5qAQU=.hash",
       "Source": "\/Users\/daanvanrossen\/Documents\/School\/Year 4\/SLC\/Portfolio\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Portfolio.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Portfolio.dll.br"
     },
@@ -256,7 +256,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kgd-B7-ghWRNo7fi_--jXydssu5B9PSMqmxOry_5ky4=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/zXLlV_Bdsv9Y7nOO_eSBdVbVjNfN_QhdXnQV09kS1fc=.hash",
       "Source": "\/Users\/daanvanrossen\/Documents\/School\/Year 4\/SLC\/Portfolio\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Portfolio.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Portfolio.pdb.br"
     },
@@ -281,7 +281,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/2XunTPOIXHyCXgWE62cOY6rnKqAg3Tqs2xttUKmGSCk=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3LhkAfGw-Sqtpd6Z8oX9-mbqUWP7mQIOW9JjQVx6Ds8=.hash",
       "Source": "\/Users\/daanvanrossen\/Documents\/School\/Year 4\/SLC\/Portfolio\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
     }
