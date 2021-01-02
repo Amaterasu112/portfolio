@@ -160,6 +160,39 @@
         }
       },
       {
+        "HashCode": -2045934176,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.NavMenu",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1681478851,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.NavMenu",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -214851872,
         "Kind": "Components.Component",
         "Name": "Portfolio.Shared.MainLayout",
@@ -252,39 +285,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Portfolio.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2045934176,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1681478851,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
