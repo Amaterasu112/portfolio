@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": 761341462,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Projecten",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Projecten"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Projecten"
-        }
-      },
-      {
-        "HashCode": -1729140295,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Projecten",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Pages.Projecten"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Projecten",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1585263574,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Index",
@@ -107,35 +74,88 @@
         }
       },
       {
-        "HashCode": -2045934176,
+        "HashCode": 761341462,
         "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
+        "Name": "Portfolio.Pages.Projecten",
         "AssemblyName": "Portfolio",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Projecten"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu"
+          "Common.TypeName": "Portfolio.Pages.Projecten"
         }
       },
       {
-        "HashCode": -1681478851,
+        "HashCode": -1729140295,
         "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
+        "Name": "Portfolio.Pages.Projecten",
         "AssemblyName": "Portfolio",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Portfolio.Shared.NavMenu"
+            "TagName": "Portfolio.Pages.Projecten"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu",
+          "Common.TypeName": "Portfolio.Pages.Projecten",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1371895678,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.SurveyPrompt",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1546507103,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.SurveyPrompt",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -236,55 +256,35 @@
         }
       },
       {
-        "HashCode": 1371895678,
+        "HashCode": -2045934176,
         "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.SurveyPrompt",
+        "Name": "Portfolio.Shared.NavMenu",
         "AssemblyName": "Portfolio",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.SurveyPrompt"
+          "Common.TypeName": "Portfolio.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1546507103,
+        "HashCode": -1681478851,
         "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.SurveyPrompt",
+        "Name": "Portfolio.Shared.NavMenu",
         "AssemblyName": "Portfolio",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Portfolio.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Portfolio.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.SurveyPrompt",
+          "Common.TypeName": "Portfolio.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
