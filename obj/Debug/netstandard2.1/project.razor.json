@@ -41,92 +41,6 @@
         }
       },
       {
-        "HashCode": 1371895678,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.SurveyPrompt",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1546507103,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.SurveyPrompt",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2045934176,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1681478851,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Shared.NavMenu",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -214851872,
         "Kind": "Components.Component",
         "Name": "Portfolio.Shared.MainLayout",
@@ -223,6 +137,92 @@
         }
       },
       {
+        "HashCode": 1371895678,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.SurveyPrompt",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1546507103,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.SurveyPrompt",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2045934176,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.NavMenu",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1681478851,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Shared.NavMenu",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 761341462,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Projecten",
@@ -285,6 +285,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Portfolio.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1962027019,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Afstuderen",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Afstuderen"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Afstuderen"
+        }
+      },
+      {
+        "HashCode": -570155076,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Afstuderen",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Afstuderen"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Afstuderen",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11752,6 +11785,11 @@
       "FilePath": "/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/Pages/Afstuderen.razor",
+      "TargetPath": "Pages\\Afstuderen.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/Users/daanvanrossen/Documents/School/Year 4/SLC/Portfolio/Pages/Projecten.razor",
