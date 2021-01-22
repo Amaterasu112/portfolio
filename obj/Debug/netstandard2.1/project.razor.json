@@ -223,39 +223,6 @@
         }
       },
       {
-        "HashCode": 761341462,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Projecten",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Projecten"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Projecten"
-        }
-      },
-      {
-        "HashCode": -1729140295,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Projecten",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Pages.Projecten"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Projecten",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1585263574,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Index",
@@ -318,6 +285,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Portfolio.Pages.Afstuderen",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 761341462,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Projecten",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Projecten"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Projecten"
+        }
+      },
+      {
+        "HashCode": -1729140295,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Projecten",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Projecten"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Projecten",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
