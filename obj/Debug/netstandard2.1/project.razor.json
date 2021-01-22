@@ -256,39 +256,6 @@
         }
       },
       {
-        "HashCode": -1962027019,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Afstuderen",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Afstuderen"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Afstuderen"
-        }
-      },
-      {
-        "HashCode": -570155076,
-        "Kind": "Components.Component",
-        "Name": "Portfolio.Pages.Afstuderen",
-        "AssemblyName": "Portfolio",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Portfolio.Pages.Afstuderen"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Portfolio.Pages.Afstuderen",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 761341462,
         "Kind": "Components.Component",
         "Name": "Portfolio.Pages.Projecten",
@@ -318,6 +285,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Portfolio.Pages.Projecten",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1962027019,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Afstuderen",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Afstuderen"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Afstuderen"
+        }
+      },
+      {
+        "HashCode": -570155076,
+        "Kind": "Components.Component",
+        "Name": "Portfolio.Pages.Afstuderen",
+        "AssemblyName": "Portfolio",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio.Pages.Afstuderen"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Portfolio.Pages.Afstuderen",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
